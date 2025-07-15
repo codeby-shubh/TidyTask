@@ -29,7 +29,7 @@ TidyTask is a minimalist and user-friendly to-do list web application that helps
 
 ![App Screenshot](images/screenshot.png)
 
-> Make sure to upload your project screenshot at `assets/screenshot.png`.
+
 
 ---
 
@@ -40,3 +40,16 @@ Clone the project:
 ```bash
 git clone https://github.com/YOUR-USERNAME/tidy-task.git
 cd tidy-task
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project for personal or commercial purposes — just give proper credit.
+
+See the full license in the [LICENSE](LICENSE) file.
+
+---
+
+© 2025 Shubh Gupta  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
