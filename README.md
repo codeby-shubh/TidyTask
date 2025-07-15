@@ -27,7 +27,7 @@ TidyTask is a minimalist and user-friendly to-do list web application that helps
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](images/screenshot.png)
 
 > Make sure to upload your project screenshot at `assets/screenshot.png`.
 
